@@ -1,0 +1,15 @@
+{
+  "name": "omps-setupbasepackages",
+  "version": "0.1.0",
+  "author": "omps",
+  "summary": "Setting base system, downloading and installing the required development packages on to new build",
+  "license": "Apache-2.0",
+  "source": "https://github.com/omps/basepackages",
+  "project_page": "https://github.com/omps/basepackages/wiki",
+  "issues_url": "https://github.com/omps/basepackages/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
